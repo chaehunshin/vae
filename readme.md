@@ -20,7 +20,7 @@ Experiments is done for celeba dataset.
 
  - Reconstructed results(left: original, right: reconstructed)
 
-![](./picutres/original.png)
+![](./pictures/original.png)
 ![](./pictures/reconstructed.png)
 
  - Generation results
