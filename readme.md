@@ -11,4 +11,5 @@ Experiments is done for celeba dataset.
 
 # Results
  - Loss of training
+
 ![](./pictures/Loss_curve.png)
