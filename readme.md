@@ -25,4 +25,4 @@ Experiments is done for celeba dataset.
 
  - Generation results
 
-![](./picutres/generated.jpg)
+![](./pictures/generated.jpg)
